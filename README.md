@@ -24,4 +24,4 @@ A implementação da Fila inclui as seguintes operações:
 Para compilar o projeto, utilize o `Makefile` fornecido. Execute o seguinte comando no terminal:
 
 ```bash
-make
+make run
